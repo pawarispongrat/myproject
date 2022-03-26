@@ -7,6 +7,8 @@ package myproject;
  *
  * @author newton
  */
-public class myproject {
-    
+public class MyProject {
+    public static void main(String[] args) {
+        System.out.println("");
+    }
 }
